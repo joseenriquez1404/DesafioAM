@@ -49,12 +49,18 @@ input::placeholder{
     display: none;
 }
 
+
 .contentM{
     display: block;
     width: 100%;
     margin-bottom: 20%;
 }
 
+.contentH{
+    display: none;
+    width: 100%;
+    margin-bottom: 20%;
+}
 .movies{
     width: 100%;
     height: 80px;
@@ -144,6 +150,8 @@ input::placeholder{
         flex-wrap: wrap;
         padding-left: 4%;
     }
+
+
 
     .search-bar{
         width: 50%;
